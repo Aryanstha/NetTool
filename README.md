@@ -2,13 +2,10 @@
 
 <p id="description">This project is a simple automation tool for running common network commands like ping tracert and nslookup on a target using C++. The tool provides a convenient way to execute these commands and export the results to a report file.</p>
 
-<h2>🚀 Demo</h2>
-
-[http](http)
-
 <h2>Project Screenshots:</h2>
 
-<img src="http" alt="project-screenshot" width="200" height="200/">
+<img src="https://github.com/Aryanstha/NetTool/blob/main/demo.png?raw=true" alt="project-screenshot" width="200" height="200/">
+<img src="report.png" alt="report" width="200" height="200">
 
   
   
