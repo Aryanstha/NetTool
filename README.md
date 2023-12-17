@@ -4,8 +4,8 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/Aryanstha/NetTool/blob/main/demo.png?raw=true" alt="project-screenshot" width="500" height="500">
-<img src="report.png" alt="report" width="500" height="500">
+<img src="https://github.com/Aryanstha/NetTool/blob/main/demo.png?raw=true" alt="project-screenshot" width="1000" height="500">
+<img src="report.png" alt="report" width="1000" height="500">
 
   
   
